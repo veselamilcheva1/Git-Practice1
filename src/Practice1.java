@@ -1,0 +1,12 @@
+public class Practice1 {
+
+    
+
+
+
+
+
+
+
+
+}
